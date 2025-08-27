@@ -65,8 +65,9 @@ Extendable to other models like Random Forest, SVM, or XGBoost.
 🤝 **Contributing**
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-📧 **Contact**
+📧 **Author**
 Taimour Mushtaq
 🎓 BSCS Student at Federal Urdu University of Arts,Science and Technology, Islamabad Pakistan
 🔗 https://www.linkedin.com/in/taimourmushtaq/ |https://github.com/TAIMOURMUSHTAQ
+
 
